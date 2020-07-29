@@ -21,5 +21,5 @@ router.get('/', (req, res) => {
 app.use('/', router)
 app.use('/app', express.static(__dirname + '/resource'))
 app.listen(3000, () => {
-    console.log(`Server running at 3000`);
+  console.log(`Server running at PORT: 3000`);
 });

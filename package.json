@@ -1,0 +1,24 @@
+{
+  "name": "com.fuelpanda.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusalshrestha/Enterprise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusalshrestha/Enterprise/issues"
+  },
+  "homepage": "https://github.com/kusalshrestha/Enterprise#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "finalhandler": "^1.1.2",
+    "serve-static": "^1.14.1"
+  }
+}
